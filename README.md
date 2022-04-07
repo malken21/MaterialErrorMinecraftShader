@@ -1,0 +1,2 @@
+# MaterialErrorMinecraftShader
+マテリアルエラーのoptifineシェーダー
